@@ -3,10 +3,9 @@ pandas
 transformers
 torch
 matplotlib
-numpy
-plotly
-scikit-learn
 seaborn
-git+https://github.com/egbertbouman/youtube-comment-downloader.git
+numpy
 wordcloud
-
+yake
+plotly
+git+https://github.com/egbertbouman/youtube-comment-downloader.git
