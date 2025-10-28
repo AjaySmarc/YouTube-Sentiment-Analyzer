@@ -7,5 +7,6 @@ numpy
 plotly
 scikit-learn
 seaborn
-YoutubeCommentDownloader
-youtube-comment-downloader
+git+https://github.com/egbertbouman/youtube-comment-downloader.git
+wordcloud
+
